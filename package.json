@@ -51,7 +51,7 @@
     "framer-motion": "^12.4.10",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.475.0",
-    "motion": "^12.4.2",
+    "motion": "^12.23.6",
     "next": "^15.1.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
